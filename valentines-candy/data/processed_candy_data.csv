@@ -1,0 +1,154 @@
+State,State_Code,Region,Candy,Rank
+Alabama,AL,Southeast,Candy Necklaces,1
+Maine,ME,Northeast,Chocolate Hearts,1
+Montana,MT,West,Chocolate Hearts,1
+Rhode Island,RI,Northeast,Chocolate Hearts,1
+Kentucky,KY,Southeast,Chocolate Roses,1
+New Mexico,NM,Southwest,Chocolate Roses,1
+Wyoming,WY,West,Chocolate Roses,1
+Illinois,IL,Midwest,Chocolate Hearts,1
+Alaska,AK,West,Conversation Hearts,1
+California,CA,West,Conversation Hearts,1
+Hawaii,HI,West,Conversation Hearts,1
+Louisiana,LA,Southeast,Conversation Hearts,1
+Massachusetts,MA,Northeast,Conversation Hearts,1
+New York,NY,Northeast,Conversation Hearts,1
+North Carolina,NC,Southeast,Conversation Hearts,1
+South Carolina,SC,Southeast,Conversation Hearts,1
+Tennessee,TN,Southeast,Conversation Hearts,1
+Virginia,VA,Southeast,Conversation Hearts,1
+Washington,WA,West,Conversation Hearts,1
+West Virginia,WV,Southeast,Conversation Hearts,1
+Florida,FL,Southeast,Heart-Shaped Box of Chocolates,1
+Missouri,MO,Midwest,Heart-Shaped Box of Chocolates,1
+Idaho,ID,West,Hershey Kisses,1
+Wisconsin,WI,Midwest,Hershey Kisses,1
+Michigan,MI,Midwest,Cupid Corn,1
+Nebraska,NE,Midwest,Heart-Shaped Box of Chocolates,1
+Colorado,CO,West,Heart-Shaped Box of Chocolates,1
+Connecticut,CT,Northeast,Heart-Shaped Box of Chocolates,1
+Georgia,GA,Southeast,Heart-Shaped Box of Chocolates,1
+Indiana,IN,Midwest,Heart-Shaped Box of Chocolates,1
+Mississippi,MS,Southeast,Heart-Shaped Box of Chocolates,1
+Nevada,NV,West,Heart-Shaped Box of Chocolates,1
+New Hampshire,NH,Northeast,Heart-Shaped Box of Chocolates,1
+Ohio,OH,Midwest,Heart-Shaped Box of Chocolates,1
+Oklahoma,OK,Southwest,Heart-Shaped Box of Chocolates,1
+"Washington, D.C.",DC,Northeast,Heart-Shaped Box of Chocolates,1
+Minnesota,MN,Midwest,M&M's,1
+South Dakota,SD,Midwest,Conversation Hearts,1
+Arkansas,AR,Southeast,Hershey Kisses,1
+Delaware,DE,Northeast,Hershey Kisses,1
+Oregon,OR,West,Hershey Kisses,1
+Pennsylvania,PA,Northeast,Hershey Kisses,1
+Texas,TX,Southwest,Hershey Kisses,1
+Utah,UT,West,Hershey Kisses,1
+Kansas,KS,Midwest,Heart-Shaped Box of Chocolates,1
+New Jersey,NJ,Northeast,Heart-Shaped Box of Chocolates,1
+Arizona,AZ,Southwest,M&M's,1
+Iowa,IA,Midwest,M&M's,1
+Maryland,MD,Northeast,M&M's,1
+North Dakota,ND,Midwest,M&M's,1
+Vermont,VT,Northeast,M&M's,1
+Alabama,AL,Southeast,Conversation Hearts,2
+Maine,ME,Northeast,Ghirardelli Gift Box,2
+Montana,MT,West,Heart-Shaped Box of Chocolates,2
+Rhode Island,RI,Northeast,Heart-Shaped Box of Chocolates,2
+Kentucky,KY,Southeast,M&M's,2
+New Mexico,NM,Southwest,Heart-Shaped Box of Chocolates,2
+Wyoming,WY,West,Conversation Hearts,2
+Illinois,IL,Midwest,Conversation Hearts,2
+Alaska,AK,West,Heart-Shaped Box of Chocolates,2
+California,CA,West,Heart-Shaped Box of Chocolates,2
+Hawaii,HI,West,M&M's,2
+Louisiana,LA,Southeast,Heart-Shaped Box of Chocolates,2
+Massachusetts,MA,Northeast,Heart-Shaped Box of Chocolates,2
+New York,NY,Northeast,Heart-Shaped Box of Chocolates,2
+North Carolina,NC,Southeast,Heart-Shaped Box of Chocolates,2
+South Carolina,SC,Southeast,Heart-Shaped Box of Chocolates,2
+Tennessee,TN,Southeast,Heart-Shaped Box of Chocolates,2
+Virginia,VA,Southeast,Heart-Shaped Box of Chocolates,2
+Washington,WA,West,Heart-Shaped Box of Chocolates,2
+West Virginia,WV,Southeast,Cupid Corn,2
+Florida,FL,Southeast,Conversation Hearts,2
+Missouri,MO,Midwest,Conversation Hearts,2
+Idaho,ID,West,Conversation Hearts,2
+Wisconsin,WI,Midwest,Conversation Hearts,2
+Michigan,MI,Midwest,Heart-Shaped Box of Chocolates,2
+Nebraska,NE,Midwest,Cupid Corn,2
+Colorado,CO,West,Conversation Hearts,2
+Connecticut,CT,Northeast,M&M's,2
+Georgia,GA,Southeast,Chocolate Roses,2
+Indiana,IN,Midwest,Conversation Hearts,2
+Mississippi,MS,Southeast,Conversation Hearts,2
+Nevada,NV,West,Conversation Hearts,2
+New Hampshire,NH,Northeast,Conversation Hearts,2
+Ohio,OH,Midwest,Cupid Corn,2
+Oklahoma,OK,Southwest,Conversation Hearts,2
+"Washington, D.C.",DC,Northeast,Conversation Hearts,2
+Minnesota,MN,Midwest,Heart-Shaped Box of Chocolates,2
+South Dakota,SD,Midwest,Hershey Kisses,2
+Arkansas,AR,Southeast,Conversation Hearts,2
+Delaware,DE,Northeast,Conversation Hearts,2
+Oregon,OR,West,M&M's,2
+Pennsylvania,PA,Northeast,M&M's,2
+Texas,TX,Southwest,Heart-Shaped Box of Chocolates,2
+Utah,UT,West,M&M's,2
+Kansas,KS,Midwest,M&M's,2
+New Jersey,NJ,Northeast,M&M's,2
+Arizona,AZ,Southwest,Heart-Shaped Box of Chocolates,2
+Iowa,IA,Midwest,Conversation Hearts,2
+Maryland,MD,Northeast,Conversation Hearts,2
+North Dakota,ND,Midwest,Conversation Hearts,2
+Vermont,VT,Northeast,Conversation Hearts,2
+Alabama,AL,Southeast,Heart-Shaped Box of Chocolates,3
+Maine,ME,Northeast,Conversation Hearts,3
+Montana,MT,West,Hershey Kisses,3
+Rhode Island,RI,Northeast,Conversation Hearts,3
+Kentucky,KY,Southeast,Conversation Hearts,3
+New Mexico,NM,Southwest,Candy Necklaces,3
+Wyoming,WY,West,Heart-Shaped Box of Chocolates,3
+Illinois,IL,Midwest,M&M's,3
+Alaska,AK,West,Cinnamon Bears,3
+California,CA,West,M&M's,3
+Hawaii,HI,West,Candy Necklaces,3
+Louisiana,LA,Southeast,M&M's,3
+Massachusetts,MA,Northeast,Chocolate Hearts,3
+New York,NY,Northeast,Cinnamon Bears,3
+North Carolina,NC,Southeast,Cupid Corn,3
+South Carolina,SC,Southeast,Ghirardelli Gift Box,3
+Tennessee,TN,Southeast,Wild Berry Skittles,3
+Virginia,VA,Southeast,Hershey Kisses,3
+Washington,WA,West,Chocolate Roses,3
+West Virginia,WV,Southeast,Candy Necklaces,3
+Florida,FL,Southeast,Chocolate Roses,3
+Missouri,MO,Midwest,Hershey Kisses,3
+Idaho,ID,West,M&M's,3
+Wisconsin,WI,Midwest,Ghirardelli Gift Box,3
+Michigan,MI,Midwest,Conversation Hearts,3
+Nebraska,NE,Midwest,Chocolate Hearts,3
+Colorado,CO,West,Hershey Kisses,3
+Connecticut,CT,Northeast,Conversation Hearts,3
+Georgia,GA,Southeast,Conversation Hearts,3
+Indiana,IN,Midwest,Chocolate Roses,3
+Mississippi,MS,Southeast,Chocolate Roses,3
+Nevada,NV,West,Chocolate Roses,3
+New Hampshire,NH,Northeast,Chocolate Hearts,3
+Ohio,OH,Midwest,Conversation Hearts,3
+Oklahoma,OK,Southwest,Chocolate Roses,3
+"Washington, D.C.",DC,Northeast,Cinnamon Bears,3
+Minnesota,MN,Midwest,Conversation Hearts,3
+South Dakota,SD,Midwest,Chocolate Hearts,3
+Arkansas,AR,Southeast,Ghirardelli Gift Box,3
+Delaware,DE,Northeast,Chocolate Hearts,3
+Oregon,OR,West,Heart-Shaped Box of Chocolates,3
+Pennsylvania,PA,Northeast,Conversation Hearts,3
+Texas,TX,Southwest,Conversation Hearts,3
+Utah,UT,West,Conversation Hearts,3
+Kansas,KS,Midwest,Ghirardelli Gift Box,3
+New Jersey,NJ,Northeast,Conversation Hearts,3
+Arizona,AZ,Southwest,Conversation Hearts,3
+Iowa,IA,Midwest,Ghirardelli Gift Box,3
+Maryland,MD,Northeast,Heart-Shaped Box of Chocolates,3
+North Dakota,ND,Midwest,Heart-Shaped Box of Chocolates,3
+Vermont,VT,Northeast,Candy Necklaces,3

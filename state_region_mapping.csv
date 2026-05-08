@@ -1,0 +1,51 @@
+State,State_Code,Region
+Alabama,AL,Southeast
+Alaska,AK,West
+Arizona,AZ,Southwest
+Arkansas,AR,Southeast
+California,CA,West
+Colorado,CO,West
+Connecticut,CT,Northeast
+Delaware,DE,Northeast
+Florida,FL,Southeast
+Georgia,GA,Southeast
+Hawaii,HI,West
+Idaho,ID,West
+Illinois,IL,Midwest
+Indiana,IN,Midwest
+Iowa,IA,Midwest
+Kansas,KS,Midwest
+Kentucky,KY,Southeast
+Louisiana,LA,Southeast
+Maine,ME,Northeast
+Maryland,MD,Northeast
+Massachusetts,MA,Northeast
+Michigan,MI,Midwest
+Minnesota,MN,Midwest
+Mississippi,MS,Southeast
+Missouri,MO,Midwest
+Montana,MT,West
+Nebraska,NE,Midwest
+Nevada,NV,West
+New Hampshire,NH,Northeast
+New Jersey,NJ,Northeast
+New Mexico,NM,Southwest
+New York,NY,Northeast
+North Carolina,NC,Southeast
+North Dakota,ND,Midwest
+Ohio,OH,Midwest
+Oklahoma,OK,Southwest
+Oregon,OR,West
+Pennsylvania,PA,Northeast
+Rhode Island,RI,Northeast
+South Carolina,SC,Southeast
+South Dakota,SD,Midwest
+Tennessee,TN,Southeast
+Texas,TX,Southwest
+Utah,UT,West
+Vermont,VT,Northeast
+Virginia,VA,Southeast
+Washington,WA,West
+West Virginia,WV,Southeast
+Wisconsin,WI,Midwest
+Wyoming,WY,West
